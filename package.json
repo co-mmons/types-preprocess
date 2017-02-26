@@ -1,0 +1,8 @@
+{
+    "name": "@types/preprocess",
+    "version": "3.1.0",
+    "author": "co.mmons",
+    "private": false,
+    "license": "MIT",
+    "types": "preprocess.d.ts"
+}
